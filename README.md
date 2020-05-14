@@ -1,4 +1,4 @@
-# Leisure-Time-Recipe
+# Leisure Time Recipes
 This folder contains recipes for some snacks I tried during my leisure time.
 
 ## Plain Chiffon Cakes
