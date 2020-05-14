@@ -26,4 +26,4 @@ Tools:
   10. Pre-heat the oven for 10 minutes.
   11. Put the cake into pre-heated oven(middle deck, 170F, 40 minutes)
   
-  ![alt text](https://github.com/ShengyanJin/Leisure-Time-Recipe/edit/ShengyanJin-Test/cake.jpg)
+  ![img](https://github.com/ShengyanJin/Leisure-Time-Recipe/edit/ShengyanJin-Test/cake.jpg)
