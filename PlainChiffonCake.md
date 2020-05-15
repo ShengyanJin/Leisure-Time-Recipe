@@ -16,7 +16,7 @@
 ## Protocol:
   1. Separate 5 eggs into egg white and yolks. Put all egg white into one bowl and use electric whisk to whip them into meringue roughly
   2. Add 1/3 of the castor sugar(50 grams totally) and whip the cream into smooth cream with middle or high speed. 
-  <img src="https://github.com/ShengyanJin/Leisure-Time-Recipe/blob/master/Whipping-cream.gif" width=300>
+  <img src="https://github.com/ShengyanJin/Leisure-Time-Recipe/blob/master/Whipping-Cream.gif" width=300>
   3. Add all the sugar gradually and whip as before until you can pull out a triangle from the egg white cream.
   4. Mix 5 yolks and 30 grams of sugar well.
   5. Add 50ml salad oil and 50ml milk into the yolk mixture while mixing them, step by step.
@@ -27,6 +27,6 @@
   10. Pre-heat the oven for 10 minutes.
   11. Put the cake into pre-heated oven(middle deck, 170F, 40 minutes)
  ## Cake in the oven
- 
+ <img src="https://github.com/ShengyanJin/Leisure-Time-Recipe/blob/master/Cake in the oven.jpg" width=300>
  ## Well cooked Chiffon Cake
  <img src="https://github.com/ShengyanJin/Leisure-Time-Recipe/blob/master/cake.jpg" width=300>
