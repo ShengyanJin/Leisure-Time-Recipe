@@ -1,4 +1,4 @@
-Tools:
+## Tools:
   1. Two stainless steel basins
   2. Flour sieve
   3. Electronic scale
@@ -6,14 +6,14 @@ Tools:
   5. Cake mold
   6. Electric whisk（Highly recommended, you never know how hard if you do it manually）
   
- Integrients:
+## Integrients:
   1. Eggs            *5
   2. Cake flour      *90 grams
   3. Castor Sugar    *80 grams       (50 grams used in egg white and 30 grams added to yolk)
   4. whole milk      *50ml
   5. Salad oil       *50ml
   
- Protocol:
+## Protocol:
   1. Separate 5 eggs into egg white and yolks. Put all egg white into one bowl and use electric whisk to whip them into meringue roughly
   2. Add 1/3 of the castor sugar(50 grams totally) and whip the cream into smooth cream with middle or high speed. 
   3. Add all the sugar gradually and whip as before until you can pull out a triangle from the egg white cream.
@@ -26,4 +26,4 @@ Tools:
   10. Pre-heat the oven for 10 minutes.
   11. Put the cake into pre-heated oven(middle deck, 170F, 40 minutes)
   
-  ![img](https://github.com/ShengyanJin/Leisure-Time-Recipe/edit/ShengyanJin-Test/cake.jpg)
+ <img src="https://github.com/ShengyanJin/Leisure-Time-Recipe/blob/master/cake.jpg" width=300>
